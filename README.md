@@ -20,4 +20,7 @@
   * 能模拟用户操作。
 * 能动态添加要爬取的页面。
 
+## 框架调研
+* node-crawler 暂时不支持无头浏览器。
+* [webster](https://github.com/zhuyingda/webster) 支持无头浏览器(puppeteer)。百度的一家伙写的。
 
